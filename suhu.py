@@ -30,3 +30,6 @@ elif temp_type == "Hot":
         print("Perangkat Error")
 else:
     print("perangkat Error")
+
+
+print("Hello World")
